@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SchoolApi",
+    "\\SchoolApi\\Controllers",
+    "\\SchoolApi\\Models",
+    "\\SchoolApi\\Views",
+    "\\SchoolWebApi",
+    "\\SchoolWebApi\\Controllers",
+    "\\SchoolWebApi\\Models",
+    "\\SchoolWebApi\\Views",
+    "\\SchoolWebApi\\Views\\SchoolClient"
+  ],
+  "PreviewInSolutionExplorer": false
+}
